@@ -2,7 +2,7 @@
 
 Data, source codes and scenarios in PDDL for the ridesharing planning problem defined in the following journal article:
 
-J. Hrncir, M. Rovatsos, and M. Jakob. Ridesharing on Timetabled Transport Services: A Multiagent Planning Approach. Journal of Intelligent Transportation Systems, 19(1):89–105, 2015
+J. Hrncir, M. Rovatsos, and M. Jakob. Ridesharing on Timetabled Transport Services: A Multiagent Planning Approach. Journal of Intelligent Transportation Systems, 19(1):89â€“105, 2015
 
 ## License
 
